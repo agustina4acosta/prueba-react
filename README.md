@@ -23,6 +23,7 @@ Este proyecto es una aplicación web construida con React. Tiene como objetivo m
 - Navegación entre páginas utilizando `react-router-dom`
 - Página principal con paginación
 - Detalles de publicaciones usando la API de Picsum para imágenes
+- Datos de publicaciones usando la API de JSON placeholder
 - Estilos mejorados para una mejor experiencia de usuario
 
 ## Tecnologías Utilizadas
@@ -32,6 +33,7 @@ Este proyecto es una aplicación web construida con React. Tiene como objetivo m
 - [Axios](https://axios-http.com/)
 - [Tailwind CSS](https://tailwindcss.com/) (si lo usas para estilos)
 - [Picsum API](https://picsum.photos/) para imágenes
+- [Json placeholder](https://jsonplaceholder.typicode.com/) para datos
 
 ## Instalación
 
