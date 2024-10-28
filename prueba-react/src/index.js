@@ -1,14 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-import Layout from './components/Layout'
-import Home from './pages/Home'
-import ErrorPage from './pages/ErrorPage'
-import PostDetail from './pages/PostDetail'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
+import Layout from './components/Layout.jsx'
+import Home from './pages/Home'
+import PostDetail from './pages/PostDetail'
 import Login from './pages/Login'
-import Profile from './pages/Profile'
+import Profile from './pages/Profile.jsx'
+import ErrorPage from './pages/ErrorPage.jsx'
+
 
 
 
