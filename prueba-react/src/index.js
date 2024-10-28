@@ -8,6 +8,7 @@ import Home from './pages/Home'
 import PostDetail from './pages/PostDetail'
 import Login from './pages/Login'
 import Profile from './pages/Profile.jsx'
+import Users from './pages/Users.jsx'
 import ErrorPage from './pages/ErrorPage.jsx'
 
 
@@ -31,6 +32,9 @@ const router = createBrowserRouter([
       },
       {
         path: "profile/:id", element: <Profile/>
+      },
+      {
+        path: "users", element: <Users/>
       },
 
      ]
