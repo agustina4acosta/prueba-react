@@ -5,3 +5,4 @@ export const PostDetail = () => {
     <div>PostDetail</div>
   )
 }
+export default PostDetail
