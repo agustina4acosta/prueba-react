@@ -4,6 +4,12 @@
 
 Este proyecto es una aplicación web construida con React. Tiene como objetivo mostrar un blog
 ## Tabla de Contenidos
+![image](https://github.com/user-attachments/assets/aebcccf8-6cab-4b50-afaa-873d78ecd8ce)
+![image](https://github.com/user-attachments/assets/4bee4399-c239-431d-94bf-34dda570ced6)
+![image](https://github.com/user-attachments/assets/367cdcc1-fac5-4a97-b49f-48c81d3a7f7c)
+
+
+
 
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
